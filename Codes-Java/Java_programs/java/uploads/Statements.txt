@@ -1,0 +1,50 @@
+1. Print The Pattern
+     1
+    212
+   32123
+  4321234 
+ 543212345
+
+2.  Print a program to find out the sum of all digits provided sum should be of single digit. Note if num = 8422 then sumnum=8+4+2+2=16 => 1+6=7
+
+3.WAP to calculate the sum of even digits and odd digits Note. if num=12243 then evensum=2+2+4=8 and oddsum=1+3=4
+
+4. Create a class of Customer with members Cust_nm, age, contact num, membership, reward_points. Demonstrate Constructor Overloading in the same.
+
+5. Consider first 15 natural numbers and Find out the sum of prime numbers amongst them
+
+6. WAP to find out the area of a parallelogram with breadth and height. Use initialization block to initialize breadth and height
+
+7. Implement Inheritance
+
+8. Implement super keywords with variables and methods
+
+9. Implement dynamic method dispatch
+
+10. Create a class to print the area of a square and a rectangle.  Overload the area method for calculating the same.
+
+11. We have set of stars. The topmost row has 1 star, the next row down has 2 stars, the next row has 3 stars, and so on. Compute recursively (no loops or multiplication) the total number of stars to form a triangle with the given number of rows.
+
+12. Create a Car class and define nested Engine class. Call void start() method from engine class. Assume suitable fields and methods.
+
+13. Demonstrate Abstract class
+
+14. Consider following:
+abstract class Book{
+    String title;
+    abstract void setTitle(String s);
+    String getTitle(){
+        return title;
+    }
+}
+Implement above abstract method in MyBook class. Call the method setTitle(“The Complete Reference”);
+
+15. Create an abstract class 'Bank' with an abstract method 'getBalance'. Rs.100, Rs.150 and Rs.200 are deposited in banks A, B and C respectively. 'BankA', 'BankB' and 'BankC' are subclasses of class 'Bank', each having a method named 'getBalance'. Call this method by creating an object of each of the three classes.
+
+16. Write a program to identify the maximum temperature among given 5 cities. (Consider Temperature class with temp variable. Hint: use Static)
+
+17. Declare the integer array with 10 numbers. Generate 2 new arrays Prime and NonPrime with prime and non-prime numbers from main array.
+
+18. Write an application to identify and move all 0's to the end of an array. Maintain the sequence of the other (non-zero) array elements.
+
+19. Exception Handeling Demonstratation
